@@ -2,7 +2,7 @@
 
 A modern, animated developer card component built for the Opire Dev ID Card Challenge. This component creates visually appealing cards that showcase developer statistics and achievements.
 
-![Dev Card Preview](preview.png)
+![Dev Card Preview](demo.gif)
 
 ## 🌟 Features
 
