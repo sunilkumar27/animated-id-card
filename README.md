@@ -32,7 +32,7 @@ A modern, animated developer card component built for the Opire Dev ID Card Chal
 1. Clone the repository:
 ```bash
 git clone https://github.com/sunilkumar27/animated-id-card.git
-cd opire-dev-card
+cd amimated-id-card
 ```
 
 2. Install dependencies:
