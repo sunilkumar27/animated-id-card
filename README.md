@@ -17,7 +17,7 @@ A modern, animated developer card component built for the Opire Dev ID Card Chal
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://animated-id-card.vercel.app/){:target="_blank"}
+<a href="https://animated-id-card.vercel.app/" target="_blank">View Live Demo</a>
 
 ## 🛠️ Tech Stack
 
